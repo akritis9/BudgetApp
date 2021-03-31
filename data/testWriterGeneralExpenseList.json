@@ -1,0 +1,18 @@
+{
+    "Expenses": [
+        {
+            "Category": "ENTERTAINMENT",
+            "Expense Amount": 10
+        },
+        {
+            "Category": "TRANSPORTATION",
+            "Expense Amount": 20
+        },
+        {
+            "Category": "EATING_OUT",
+            "Expense Amount": 30
+        }
+    ],
+    "Budget": 800,
+    "Balance": 740
+}

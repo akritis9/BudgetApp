@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="997de9e9-74a0-4dd0-941a-d27dfce93cf7" name="Default Changelist" comment="&quot;added tests for all classes&quot;" />
+    <list id="6addf76b-3cd4-4926-87b4-db948382eb51" name="&quot;added jfreechart-1.0.19.jar to git&quot;" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/ui/BudgetApp.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1o0AmGpyw3FpGzv2P26WtAqF4UG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Gui">
+    <configuration name="Gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Gui" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.buttons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.buttons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Project-Starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ExpenseListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ExpenseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gui" />
+        <item itemvalue="JUnit.All in Project-Starter" />
+        <item itemvalue="JUnit.ExpenseListTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ExpenseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997de9e9-74a0-4dd0-941a-d27dfce93cf7" name="Default Changelist" comment="" />
+      <changelist id="6addf76b-3cd4-4926-87b4-db948382eb51" name="&quot;added jfreechart-1.0.19.jar to git&quot;" comment="" />
+      <created>1612413292011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612413292011</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;user stories&quot;">
+      <created>1612415138784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612415138784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;added classes&quot;">
+      <created>1612503588892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612503588892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;added tests for all classes&quot;">
+      <created>1612715627851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612715627851</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;added ui&quot;">
+      <created>1612752307642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612752307642</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;commented out a test&quot;">
+      <created>1612833602793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612833602793</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;added test in ExpenseListTest&quot;">
+      <created>1612834722020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612834722020</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;changed definition of Expense class&quot;">
+      <created>1613008107915</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613008107915</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;deleted default myModel class&quot;">
+      <created>1613008367690</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613008367690</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;deleted extra user stories&quot;">
+      <created>1613011975480</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613011975480</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;added class comments&quot;">
+      <created>1613323332494</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613323332494</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;fixed indentation&quot;">
+      <created>1613323725048</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613323725049</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;added persistence&quot;">
+      <created>1614655063978</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614655063978</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;added tests for JsonWriter&quot;">
+      <created>1614786788832</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1614786788832</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&quot;multiple code refactoring -added expenslist field to budget class&quot;">
+      <created>1614826412138</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1614826412138</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&quot;fixed checkstyle&quot;">
+      <created>1614916801763</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1614916801763</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&quot;added new tests for Budget&quot;">
+      <created>1614921119471</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614921119471</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&quot;modified tests for jsonWriter&quot;">
+      <created>1614922317653</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614922317653</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&quot;modified tests for jsonReader&quot;">
+      <created>1614922989943</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614922989943</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&quot;modified tests for jsonReader&quot;">
+      <created>1614923451951</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1614923451951</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&quot;added specifications and modified README&quot;">
+      <created>1615156309806</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1615156309806</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&quot;added code credit&quot;">
+      <created>1615156543828</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1615156543828</updated>
+    </task>
+    <task id="LOCAL-00022" summary="&quot;refactored expense and added category&quot;">
+      <created>1615424918034</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1615424918034</updated>
+    </task>
+    <task id="LOCAL-00023" summary="&quot;refactored tests&quot;">
+      <created>1615426565985</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1615426565985</updated>
+    </task>
+    <task id="LOCAL-00024" summary="&quot;fixed checkstyle&quot;">
+      <created>1615426674072</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1615426674072</updated>
+    </task>
+    <task id="LOCAL-00025" summary="&quot;refactored expenseLog block and pane; load button rendering saved data&quot;">
+      <created>1616219757510</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1616219757510</updated>
+    </task>
+    <task id="LOCAL-00026" summary="&quot;fixed checkstyle&quot;">
+      <created>1616386898027</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1616386898027</updated>
+    </task>
+    <task id="LOCAL-00027" summary="&quot;added jfreechart-1.0.19.jar to git&quot;">
+      <created>1616387421926</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1616387421926</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&quot;added jfreechart-1.0.19.jar to git&quot;">
+      <created>1616387447538</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1616387447538</updated>
+    </task>
+    <task id="LOCAL-00029" summary="&quot;added jfreechart-1.0.19.jar to git&quot;">
+      <created>1616388755082</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1616388755082</updated>
+    </task>
+    <task id="LOCAL-00030" summary="&quot;added tests for viewListofEpenses&quot;">
+      <created>1616388844328</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1616388844328</updated>
+    </task>
+    <task id="LOCAL-00031" summary="&quot;added tests for viewListofEpenses&quot;">
+      <created>1616388874330</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1616388874330</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;user stories&quot;" />
+    <MESSAGE value="&quot;added classes&quot;" />
+    <MESSAGE value="&quot;added tests for all classes&quot;" />
+    <MESSAGE value="&quot;added ui&quot;" />
+    <MESSAGE value="&quot;commented out a test&quot;" />
+    <MESSAGE value="&quot;added test in ExpenseListTest&quot;" />
+    <MESSAGE value="&quot;changed definition of Expense class&quot;" />
+    <MESSAGE value="&quot;deleted default myModel class&quot;" />
+    <MESSAGE value="&quot;deleted extra user stories&quot;" />
+    <MESSAGE value="&quot;added class comments&quot;" />
+    <MESSAGE value="&quot;fixed indentation&quot;" />
+    <MESSAGE value="&quot;added persistence&quot;" />
+    <MESSAGE value="&quot;added tests for JsonWriter&quot;" />
+    <MESSAGE value="&quot;multiple code refactoring -added expenslist field to budget class&quot;" />
+    <MESSAGE value="&quot;added new tests for Budget&quot;" />
+    <MESSAGE value="&quot;modified tests for jsonWriter&quot;" />
+    <MESSAGE value="&quot;modified tests for jsonReader&quot;" />
+    <MESSAGE value="&quot;added specifications and modified README&quot;" />
+    <MESSAGE value="&quot;added code credit&quot;" />
+    <MESSAGE value="&quot;refactored expense and added category&quot;" />
+    <MESSAGE value="&quot;refactored tests&quot;" />
+    <MESSAGE value="&quot;refactored expenseLog block and pane; load button rendering saved data&quot;" />
+    <MESSAGE value="&quot;fixed checkstyle&quot;" />
+    <MESSAGE value="&quot;added jfreechart-1.0.19.jar to git&quot;" />
+    <MESSAGE value="&quot;added tests for viewListofEpenses&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added tests for viewListofEpenses&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="145" key="#Inspections" timestamp="1614572380620">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="372" y="145" key="#Inspections/0.25.1440.875/-137.-1055.1920.1055@0.25.1440.875" timestamp="1614572380620" />
+    <state x="633" y="-814" key="#com.intellij.ide.util.MemberChooser" timestamp="1616303834758">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="633" y="-814" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616303834758" />
+    <state x="578" y="225" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-137.-1055.1920.1055@0.25.1440.875" timestamp="1615821708166" />
+    <state x="547" y="-1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614918247885">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="547" y="-1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1614918247885" />
+    <state x="636" y="-668" key="DetectedRootsChooserDialog" timestamp="1616300552780">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="636" y="-668" key="DetectedRootsChooserDialog/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616300552780" />
+    <state x="53" y="-954" width="1586" height="829" key="DiffContextDialog" timestamp="1614921299352">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="53" y="-954" width="1586" height="829" key="DiffContextDialog/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1614921299352" />
+    <state width="1759" height="90" key="GridCell.Tab.0.bottom" timestamp="1616389662124">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.bottom/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1615911196610" />
+    <state width="1759" height="90" key="GridCell.Tab.0.bottom/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616389662124" />
+    <state width="1645" height="132" key="GridCell.Tab.0.bottom/0.25.1440.875/-137.-1055.1920.1055@0.25.1440.875" timestamp="1615822376310" />
+    <state width="1419" height="251" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1616305984120" />
+    <state width="1759" height="90" key="GridCell.Tab.0.center" timestamp="1616389662122">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.center/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1615911196608" />
+    <state width="1759" height="90" key="GridCell.Tab.0.center/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616389662122" />
+    <state width="1645" height="132" key="GridCell.Tab.0.center/0.25.1440.875/-137.-1055.1920.1055@0.25.1440.875" timestamp="1615822376309" />
+    <state width="1419" height="251" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1616305984119" />
+    <state width="1759" height="90" key="GridCell.Tab.0.left" timestamp="1616389662120">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.left/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1615911196607" />
+    <state width="1759" height="90" key="GridCell.Tab.0.left/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616389662120" />
+    <state width="1645" height="132" key="GridCell.Tab.0.left/0.25.1440.875/-137.-1055.1920.1055@0.25.1440.875" timestamp="1615822376309" />
+    <state width="1419" height="251" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1616305984119" />
+    <state width="1759" height="90" key="GridCell.Tab.0.right" timestamp="1616389662123">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.right/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1615911196609" />
+    <state width="1759" height="90" key="GridCell.Tab.0.right/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616389662123" />
+    <state width="1645" height="132" key="GridCell.Tab.0.right/0.25.1440.875/-137.-1055.1920.1055@0.25.1440.875" timestamp="1615822376310" />
+    <state width="1419" height="251" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1616305984120" />
+    <state width="1738" height="306" key="GridCell.Tab.1.bottom" timestamp="1616031987106">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1547" height="366" key="GridCell.Tab.1.bottom/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1612677341310" />
+    <state width="1738" height="306" key="GridCell.Tab.1.bottom/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616031987106" />
+    <state width="1738" height="306" key="GridCell.Tab.1.center" timestamp="1616031987106">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1547" height="366" key="GridCell.Tab.1.center/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1612677341308" />
+    <state width="1738" height="306" key="GridCell.Tab.1.center/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616031987106" />
+    <state width="1738" height="306" key="GridCell.Tab.1.left" timestamp="1616031987105">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1547" height="366" key="GridCell.Tab.1.left/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1612677341307" />
+    <state width="1738" height="306" key="GridCell.Tab.1.left/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616031987105" />
+    <state width="1738" height="306" key="GridCell.Tab.1.right" timestamp="1616031987106">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1547" height="366" key="GridCell.Tab.1.right/0.0.1440.900/-137.-1080.1920.1080@-137.-1080.1920.1080" timestamp="1612677341309" />
+    <state width="1738" height="306" key="GridCell.Tab.1.right/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616031987106" />
+    <state x="347" y="-964" key="SettingsEditor" timestamp="1616300680524">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="347" y="-964" key="SettingsEditor/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616300680524" />
+    <state x="667" y="-620" key="VCS.ChangelistChooser" timestamp="1616387441177">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="667" y="-620" key="VCS.ChangelistChooser/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616387441177" />
+    <state x="318" y="-845" key="Vcs.Push.Dialog.v2" timestamp="1616388876274">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="318" y="-845" key="Vcs.Push.Dialog.v2/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616388876274" />
+    <state x="341" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875/-137.-1055.1920.1055@0.25.1440.875" timestamp="1612503590991" />
+    <state x="341" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1612415141069" />
+    <state x="496" y="-734" width="916" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616029469627">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="496" y="-734" width="916" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1616029469627" />
+    <state x="410" y="-964" key="new project wizard" timestamp="1615776728200">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="410" y="-964" key="new project wizard/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1615776728200" />
+    <state x="516" y="-776" key="refactoring.ChangeSignatureDialog" timestamp="1615348812312">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="516" y="-776" key="refactoring.ChangeSignatureDialog/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1615348812312" />
+    <state x="482" y="-827" width="670" height="676" key="search.everywhere.popup" timestamp="1615958948037">
+      <screen x="-137" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="482" y="-827" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/-137.-1055.1920.1055@-137.-1055.1920.1055" timestamp="1615958948037" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/model/BudgetTest.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/ui/buttons/LoadButton.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/model/ExpenseListTest.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$Persistence_in_Project_Starter.ic" NAME="Persistence in Project-Starter Coverage Results" MODIFIED="1614923077478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$JsonWriterTest.ic" NAME="JsonWriterTest Coverage Results" MODIFIED="1614786752147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$model_in_Project_Starter.ic" NAME="model in Project-Starter Coverage Results" MODIFIED="1615425053836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$BudgetTest.ic" NAME="BudgetTest Coverage Results" MODIFIED="1614921030430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$All_in_Project_Starter.ic" NAME="All in Project-Starter Coverage Results" MODIFIED="1616388732965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

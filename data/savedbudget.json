@@ -1,0 +1,22 @@
+{
+    "Expenses": [
+        {
+            "Category": "GROCERIES",
+            "Expense Amount": 10
+        },
+        {
+            "Category": "GROCERIES",
+            "Expense Amount": 90
+        },
+        {
+            "Category": "EATING_OUT",
+            "Expense Amount": 80
+        },
+        {
+            "Category": "ENTERTAINMENT",
+            "Expense Amount": 80
+        }
+    ],
+    "Budget": 9000,
+    "Balance": 9000
+}
